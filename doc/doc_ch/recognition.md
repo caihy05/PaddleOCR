@@ -78,7 +78,7 @@ python gen_label.py --mode="rec" --input_path="{path/of/origin/label}" --output_
     |-ic15_data
         |- rec_gt_train.txt
         |- train
-            |- word_001.png
+            |- word_001.jpg
             |- word_002.jpg
             |- word_003.jpg
             | ...
